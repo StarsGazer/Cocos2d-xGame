@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="11" tileheight="11" nextobjectid="27">
+ <tileset firstgid="1" name="tiles" tilewidth="11" tileheight="11" tilecount="8" columns="4">
+  <image source="tiles.png" width="44" height="22"/>
+  <tile id="5">
+   <properties>
+    <property name="Collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="9" name="tank_shell" tilewidth="11" tileheight="11" tilecount="8" columns="4">
+  <image source="tank_shell.png" width="44" height="22"/>
+  <tile id="5">
+   <properties>
+    <property name="Shot" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="Shot" type="bool" value="false"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Layer1" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBwCmIkINi45dDX0NA+ffwiZx4SmDoZZkTAp5uFjs+KRo0f40Trt4ApLfHL0chM+96CrIeRGbPKsONiDwTxy/TsQcUaP9EiuecxAzEIl80Bxyg7EHFjiFx0DAFfiAhY=
+  </data>
+ </layer>
+ <objectgroup name="Objects">
+  <object id="1" name="MyTank" x="66" y="198" width="11" height="11"/>
+  <object id="3" name="Enemy1" x="44" y="44" width="11" height="11"/>
+  <object id="5" name="Enemy2" x="110" y="44" width="11" height="11"/>
+  <object id="6" name="Enemy3" x="176" y="44" width="11" height="11"/>
+  <object id="7" name="Enemy4" x="110" y="110" width="11" height="11"/>
+  <object id="26" gid="2" x="22" y="33" width="11" height="11" visible="0"/>
+ </objectgroup>
+ <layer name="Collidable" width="20" height="20" opacity="0">
+  <data encoding="base64" compression="zlib">
+   eJzFVEEKACAI8+T/n9xVZEuLWYIkzta0yM3Mxa6yyOcpj2KGxfU1HzO0N+fYTFG+w4f0oT07bGp+CmN83VkybEJfVw+6550+1j/Df/Pd9qv4b169P1ZX1Z/wobg6V+ELJnQDuw==
+  </data>
+ </layer>
+ <layer name="Shoot" width="20" height="20" opacity="0">
+  <data encoding="base64" compression="zlib">
+   eJzNUkEKACAI8wX6/992Coa4sDBrII0aYw1NRKx4qoB+CveMs7d5vvBj0ISfOp04HXad8YvyoZa9dfRXAea36jLT84182TxegzzKF+2eEf6D3+l/WX876No/j9XOnfpFnPlVzgBaEwkH
+  </data>
+ </layer>
+</map>

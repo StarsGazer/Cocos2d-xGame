@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="32" tileheight="32" nextobjectid="14">
+ <tileset firstgid="1" name="New" tilewidth="32" tileheight="32" tilecount="4544" columns="64">
+  <image source="32x32.png" width="2048" height="2272"/>
+  <tile id="93">
+   <properties>
+    <property name="Collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1152">
+   <properties>
+    <property name="Name" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="块层 1" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1MENgDAIhWFGcAPH7Q4mTuMUnFzFi4nYAFVCe2je4bvyY1NbFqICMCkWMubs9IjMWcnmdc9bpCl3rlntuvu1zQavLXdgpR39Nq27VbSZ0XNu8dq9mrLdcz6MY933ET35v2a0D3rTetpbkdXX9vn7RgMAzOACWdsQlg==
+  </data>
+ </layer>
+ <layer name="Collidable" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJyLY2BgiBsgTG8wau+ovaP2jto7au+ovUPVXmrUp+Sqp9RuYtVSuy1BTf+SAoZSuhq1d9TeUXsHl70DgQEDEjfR
+  </data>
+ </layer>
+ <objectgroup name="Objects">
+  <object id="1" name="spawnpoint" x="96" y="384" width="32" height="32"/>
+ </objectgroup>
+</map>

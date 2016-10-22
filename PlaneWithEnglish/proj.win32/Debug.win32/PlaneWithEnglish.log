@@ -1,0 +1,42 @@
+﻿  GameScene.cpp
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(74): warning C4333: “>>”: 右移位数过大，数据将丢失
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(136): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(169): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(193): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(226): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(250): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(283): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(307): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(340): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(424): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(465): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(502): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(543): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(578): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(619): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(653): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(694): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(890): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(922): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(955): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(989): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(1145): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(1151): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(1157): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(1163): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(1171): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(1178): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(1185): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(1189): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(1194): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(1201): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(1205): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(1076): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(1094): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\ll\documents\cocos\cocosprojects\planewithenglish\classes\gamescene.cpp(1112): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+  60 File(s) copied
+  PlaneWithEnglish.vcxproj -> C:\Users\ll\Documents\Cocos\CocosProjects\PlaneWithEnglish\proj.win32\Debug.win32\PlaneWithEnglish.exe
+  0 File(s) copied

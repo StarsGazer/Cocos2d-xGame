@@ -1,0 +1,124 @@
+﻿  AppDelegate.cpp
+  GameOver.cpp
+  GameScene.cpp
+  HelloWorldScene.cpp
+..\Classes\AppDelegate.cpp(42): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameOver.cpp(108): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameOver.cpp(129): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(121): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(144): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(167): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(190): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(319): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(379): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(440): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(501): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(945): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(1435): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(1436): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(1437): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(1438): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(1439): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(1440): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(1441): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(1442): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(1443): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(1444): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(1527): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(1534): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(1541): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(1545): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\GameScene.cpp(1550): warning C4305: “参数”: 从“double”到“float”截断
+  Instruction.cpp
+  main.cpp
+..\Classes\Instruction.cpp(113): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\Instruction.cpp(119): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\Instruction.cpp(128): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\Instruction.cpp(132): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\Instruction.cpp(136): warning C4305: “参数”: 从“double”到“float”截断
+  60 File(s) copied
+    正在创建库 C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\TankWar.lib 和对象 C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\TankWar.exp
+  正在生成代码
+  All 1058 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  TankWar.vcxproj -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\TankWar.exe
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\111.wav -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\111.wav
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\21.jpg -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\21.jpg
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\bomb_1.gif -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\bomb_1.gif
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\bomb_2.gif -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\bomb_2.gif
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\bomb_3.gif -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\bomb_3.gif
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\bullet.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\bullet.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\button.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\button.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\collide.wav -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\collide.wav
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\Down.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\Down.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\enemy.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\enemy.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\enemyTank.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\enemyTank.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\explode.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\explode.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\explode_s.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\explode_s.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\fail.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\fail.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\fire.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\fire.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\font.fnt -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\font.fnt
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\font.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\font.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\frame1.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\frame1.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\frame2.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\frame2.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\futura-48.fnt -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\futura-48.fnt
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\futura-48.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\futura-48.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\game.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\game.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\HelloWorld.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\HelloWorld.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\hit.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\hit.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\hit.wav -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\hit.wav
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\icon.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\icon.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\ic_logo.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\ic_logo.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\ic_logo_s.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\ic_logo_s.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\interscape.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\interscape.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\interscape_s.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\interscape_s.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\Left.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\Left.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\life.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\life.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\lose.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\lose.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\main.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\main.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\mainBack.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\mainBack.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\MainScene.csb -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\MainScene.csb
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\map.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\map.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\map.psd -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\map.psd
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\map.tmx -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\map.tmx
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\map2.psd -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\map2.psd
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\medal.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\medal.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\miss.wav -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\miss.wav
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\money.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\money.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\motor.wav -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\motor.wav
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\music3.wav -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\music3.wav
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\myMap.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\myMap.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\myMap2.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\myMap2.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\number.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\number.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\pass.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\pass.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\Right.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\Right.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\role.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\role.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\shoot.wav -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\shoot.wav
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\smallbullet.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\smallbullet.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\splash.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\splash.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\splash11.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\splash11.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\splash1111.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\splash1111.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\splash1122.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\splash1122.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\start.mid -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\start.mid
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\stinger.wav -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\stinger.wav
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\stinger5.wav -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\stinger5.wav
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\super.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\super.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\Tank.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\Tank.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\tankBullet.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\tankBullet.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\TankMap.tmx -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\TankMap.tmx
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\TankMap2.tmx -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\TankMap2.tmx
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\tanks.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\tanks.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\tank_e.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\tank_e.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\tank_enemy.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\tank_enemy.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\tank_i.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\tank_i.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\tank_logo.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\tank_logo.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\tank_shell.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\tank_shell.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\tiles.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\tiles.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\title.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\title.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\title_s.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\title_s.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\tool.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\tool.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\turret2.wav -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\turret2.wav
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\Up.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\Up.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\win.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\win.png
+  C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\Resources\res\wwwww.png -> C:\Users\ll\Documents\Cocos\CocosProjects\TankWar\proj.win32\Release.win32\res\wwwww.png
+  79 File(s) copied

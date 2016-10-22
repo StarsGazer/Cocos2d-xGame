@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="11" tileheight="11" nextobjectid="15">
+ <tileset firstgid="1" name="tiles" tilewidth="11" tileheight="11" tilecount="8" columns="4">
+  <image source="tiles.png" width="44" height="22"/>
+  <tile id="5">
+   <properties>
+    <property name="Collidable" type="bool" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="9" name="tanks" tilewidth="11" tileheight="11" tilecount="4" columns="4">
+  <image source="tanks.png" width="44" height="11"/>
+  <tile id="2">
+   <properties>
+    <property name="Shot" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="Shot" type="bool" value="false"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Layer1" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFwx4zYcGUqKOlO0fVka8OG2ZFiktWKsQROeaRmq4GMg3SGlPbbyAzmIGYhUrmgeKUHYg5iIhfAHO/AeA=
+  </data>
+ </layer>
+ <objectgroup name="Objects">
+  <object id="8" name="Enemy1" x="44" y="33" width="11" height="11"/>
+  <object id="10" name="Enemy2" x="99" y="66" width="11" height="11"/>
+  <object id="11" name="Enemy3" x="154" y="33" width="11" height="11"/>
+  <object id="13" name="Enemy4" x="44" y="143" width="11" height="11"/>
+  <object id="14" name="MyTank" x="55" y="198" width="11" height="11"/>
+ </objectgroup>
+ <layer name="Collidable" width="20" height="20" opacity="0">
+  <data encoding="base64" compression="zlib">
+   eJxjY2BgYKMyphYYNY965hEbT/jU0cO/xJqPTd2oebj1EpM/aWkeqeUENrVDKb8Ro46a8YGNTcheamAADmACvw==
+  </data>
+ </layer>
+ <layer name="Shoot" width="20" height="20" opacity="0">
+  <data encoding="base64" compression="zlib">
+   eJzjYWBg4KEyphYYNY965nFjwdgAPnX08C8ud6EDbOpGzcMOeBgQcYlPPS3NIzb9wQA2tUMpv+EDxIYDKeZhY+Myj5oYALalBVg=
+  </data>
+ </layer>
+</map>
